@@ -15,4 +15,5 @@ presentaciones por ahora han sido PowerPoint, Canva, Wix.
 Por ahora solamente he desarrollado un proyecto de emprendimiento y espero poder desarrollar muchos proyectos direccionados a mi carrera y sobre otros temas…
 
 
-https://i.pinimg.com/736x/17/3b/23/173b23b9b8f9cca3a12d34412c508722.jpg
+![image](https://github.com/user-attachments/assets/1fa19114-b730-4ec0-853f-9ad5317de96b)
+
